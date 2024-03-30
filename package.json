@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://chandankmishra2000.github.io/Dice_game/",
+  "homepage": "https://chandankmishra2000.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
